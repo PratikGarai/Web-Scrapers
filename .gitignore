@@ -1,4 +1,5 @@
 venv
 __pycache__
 trash_*
-*.csv
+save_data
+logs

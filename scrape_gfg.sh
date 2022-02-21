@@ -1,1 +1,2 @@
-python gfg/main.py
+mkdir logs
+python gfg/main.py > logs/gfg_log.txt
