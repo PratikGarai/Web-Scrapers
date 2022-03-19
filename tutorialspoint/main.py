@@ -85,7 +85,7 @@ def scrape_tutorialspoint() -> None:
                     if i.name not in HEADINGS:
                         content += i.text + "\n"
                     else:
-                        data.append((sub_text, sub_url, heading, content))
+                        data.append((sub_text, sub_url, heading, content.strip()))
                         content = ""
                         heading = i.text
             except:
