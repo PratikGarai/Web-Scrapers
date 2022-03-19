@@ -3,3 +3,7 @@
 __pycache__
 *.swp
 data
+venv
+trash_*
+save_data
+logs
