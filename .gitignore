@@ -8,3 +8,5 @@ trash_*
 save_data
 logs
 *.exe
+*.csv
+*.xslx
