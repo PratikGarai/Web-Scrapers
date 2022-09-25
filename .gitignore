@@ -9,4 +9,5 @@ save_data
 logs
 *.exe
 *.csv
-*.xslx
+*.xlsx
+*.log
