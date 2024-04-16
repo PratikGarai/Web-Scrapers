@@ -4,7 +4,7 @@ certifi==2023.7.22
 charset-normalizer==2.0.12
 click==8.0.4
 colorama==0.4.4
-idna==3.3
+idna==3.7
 mypy-extensions==0.4.3
 numpy==1.22.2
 pandas==1.4.1
